@@ -6,9 +6,14 @@ eyes = 'Blue'
 teeth = 'White'
 hair = 'Brown'
 
+inch2cm = 2.54
+pound2kg = 1/2.2046
+
 print(f"Let's talk about {name}")
 print(f"He's {height} inches tall")
+print(f"He's {height*inch2cm} cm tall")
 print(f"He's {weight} pounds heavy")
+print(f"He's {weight*pound2kg} kg heavy")
 print("Actually that's not too heavy")
 print(f"Heś got {eyes} eyes and {hair} hair")
 print(f"His teeth are usually {teeth} depending on the coffee")
