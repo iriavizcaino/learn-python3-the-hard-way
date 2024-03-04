@@ -1,8 +1,8 @@
 print("I will now count my chickens:")
 
 # Realizar cuentas
-print("Hens", 25+30/6)
-print("Roosters", 100-25*3%4)
+print("Hens", 25.0+30.0/6.0)
+print("Roosters", 100.-25*3%4)
 
 print("Now I will count the eggs:")
 
