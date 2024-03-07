@@ -13,3 +13,12 @@ print(tabby_cat)
 print(persian_cat)
 print(backslash_cat)
 print(fat_cat)
+
+print("""cmd test
+\a aaa
+\b bbb
+\f fff
+\n nnn
+\r rrr
+\v vvv
+""")
